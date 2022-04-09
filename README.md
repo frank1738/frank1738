@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Frankline</h1>
-<h3 align="center">A full stack Software Developer from Nairobi,Kenya</h3>
+<h3 align="center">A full stack Software Developer from Nairobi, Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/frankhiggins08" target="blank"><img src="https://img.shields.io/twitter/follow/@frankhiggins08?logo=twitter&style=for-the-badge" alt="@frankhiggins" /></a> </p>
 
