@@ -23,7 +23,7 @@
      
 <div align="center">
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1738e&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/ericmahare) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1738&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/ericmahare) 
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=frank1738&show_icons=true&theme=gotham&count_private=true">
 </div>
 
@@ -88,7 +88,7 @@
 
 <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ericmahare&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=frank1738&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 </div>
 
