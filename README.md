@@ -1,10 +1,22 @@
-<div id="badges"  align="center">
+<h2> Hey there, I'm frank .</h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+ - 🤔 &nbsp; I'm into a Full Stack Web Developer
+ - 🎓 &nbsp; I’m currently uping my game in React and Ruby @ Microverse.
+ - 💼 &nbsp; I'm Into Problem Solving and Innovative Solutions
+ - 🌱 &nbsp; I have special Interest in Machine Learning, AI and Networking
+ - ✍️ &nbsp; I love Building Unique UI/UX Designs
+ - :soccer:&nbsp;  I love Watching Football
+ - :envelope:&nbsp;  I love connecting with people globally. You can reach me via :<a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/>
+  </a>
+
+   
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Fortune+favors+the+brave!)](https://git.io/typing-svg)
     
-  </div>
 
-<div id="badges"  align="center">
     
     
 ![](https://komarev.com/ghpvc/?username=frank1738)
@@ -13,7 +25,7 @@
     
   </div>
 
-<div id="header" align="center">
+<div>
     <a href="yhttps://github.com/frank1738/">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="480"/>
        </a>
@@ -21,7 +33,7 @@
 
 
      
-<div align="center">
+<div>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frank1738&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/ericmahare) 
   <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=frank1738&show_icons=true&theme=gotham&count_private=true">
@@ -30,12 +42,12 @@
 
 
 
-<div align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=frank1738&column=7&theme=onedark" />
 </div>
 <br>
 
- <div id='lojc' align="center">
+ <div id='lojc'>
 
 | tools  | languages | frameworks  | technologies |   
 |---|---|---|---|
