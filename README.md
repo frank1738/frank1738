@@ -7,7 +7,7 @@
  - 🌱 &nbsp; I have special Interest in Machine Learning, AI and Networking
  - ✍️ &nbsp; I love Building Unique UI/UX Designs
  - :soccer:&nbsp;  I love Watching Football
- - :envelope:&nbsp;  I love connecting with people globally. You can reach me via <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
+ - :envelope:&nbsp;  I love connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/>
   </a>
 
