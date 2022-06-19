@@ -3,11 +3,9 @@
 
  - 🤔 &nbsp; I'm  a Full Stack Web Developer
  - 🎓 &nbsp; I’m currently upping my game in React and Ruby @ Microverse.
- - 💼 &nbsp; I'm Into Problem Solving and Innovative Solutions
- - 🌱 &nbsp; I have special Interest in Machine Learning, AI and Networking
- - ✍️ &nbsp; I love Building Unique UI/UX Designs
+ - 💼 &nbsp; I'm Into Problem Solving with special Interest in Machine Learning, AI and Networking
  - :soccer:&nbsp;  I love Watching Football
- - :envelope:&nbsp;  I love connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
+ - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/></a>
  - :smile: Visit my <a href="https://frank1738.github.io/portfolio/">Porfolio</a>
 
