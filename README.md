@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
  - 🤔 &nbsp; I'm  a Full Stack Web Developer
- - 🎓 &nbsp; I am are a learner, I want to improve my skills not only in the engineering field but across any other areas.
+ - 🎓 &nbsp; I am a learner, I want to improve my skills not only in the engineering field but across any other areas.
  - 💼 &nbsp; I love understanding, Breaking down complex problems into basic and shareable elements.
  - :soccer:&nbsp;  I love Watching Football. Not American Football :smile:
  - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
