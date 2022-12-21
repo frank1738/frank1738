@@ -3,8 +3,8 @@
 
  - 🤔 &nbsp; I'm  a Full Stack Web Developer
  - 🎓 &nbsp; I am a learner, I want to improve my skills not only in the engineering field but across any other areas.
- - 💼 &nbsp; I love understanding, Breaking down complex problems into basic and shareable elements.
- - :soccer:&nbsp;  I love Watching Football. Not American Football :smile:
+ - 💼 &nbsp; I love understanding, breaking down complex problems into basic and shareable elements.
+ - :soccer:&nbsp;  I love watching football. Not American football :smile:
  - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/></a>
  - :smile: visit my <a href="https://frank1738.github.io/portfolio/">Porfolio</a>
