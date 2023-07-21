@@ -1,13 +1,40 @@
-<h2> Hey there, I'm frank .</h2>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+# Hey there! 👋
 
- - 🤔 &nbsp; I'm  a Full Stack Web Developer
- - 🎓 &nbsp; I am a learner, I want to improve my skills not only in the engineering field but across any other areas.
- - 💼 &nbsp; I love understanding, breaking down complex problems into basic and shareable elements.
- - :soccer:&nbsp;  I love watching football. Not American football :smile:
- - :envelope:&nbsp;  I enjoy connecting with people globally. You can reach me via: <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/></a>
- - :smile: visit my <a href="https://frank1738.github.io/portfolio/">Porfolio</a>
+Welcome to my coding realm! I'm Frankline, your friendly neighborhood Full-Stack developer 🧙‍♂️ with a knack for React and Ruby on Rails. Let's embark on an enchanting coding journey together! 🚀
+
+## About Me 🌟
+
+- 🎓 I'm a curious learner, on a quest to level up not just in tech but in all things fascinating.
+- 💼 I prefer decoding complex problems into bite-sized, shareable gems. Let's sprinkle some coding magic!
+
+## Tech Stack 💻
+
+- Frontend: React, HTML, CSS, JavaScript, Tailwind, Next.js
+- Backend: Ruby on Rails
+
+## Interests ⚽️
+
+When I'm not concocting spells with code, you'll find me under the spell of intense football matches! ⚽️ Pro tip: Coding with the match on is my secret sauce to success! 😄
+
+## Casting Collaborations 📩
+
+Seeking a fellow coding sorcerer? I'm all ears for bewitching projects, coding spells, and enchanting discussions:
+
+- Email: [email me](mailto:frankliosoro08@gmail.com)
+- LinkedIn: [my linkedin profile](https://www.linkedin.com/in/frank1738/)
+
+## ✨ Explore My Portfolio ✨
+
+Visit my [portfolio](https://frank1738.github.io/portfolio/) at least!😄
+
+## Let's Brew Some Code! 🍻
+
+Pull up a chair, grab your coding wand (keyboard), and let's concoct some extraordinary digital potions! I'm thrilled to join forces and create wonders in the tech realm. Let the coding adventures begin! 🎉
+
+> "When in doubt, debug it out!" 🐞
+
+Happy coding and may the bugs be ever in your favor! 🐛🔮
+
 
    
 
@@ -95,27 +122,6 @@
 
 
 
-
-<div id="badges"  align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=frank1738&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-
-</div>
-
-
-
-
-
- 
-<div id="badges"  align="center">
-  <a href="http://www.linkedin.com/in/frankline-osoro-b526ba18b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="blank"/>
-  </a>
-
-  <a href="https://twitter.com/frankhiggins08">
-    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter Badge"/>
-  </a>
-</div>
 
 
 
