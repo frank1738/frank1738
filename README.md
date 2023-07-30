@@ -10,7 +10,7 @@ Welcome to my coding realm! I'm Frankline, your friendly neighborhood Full-Stack
 ## Tech Stack 💻
 
 - Frontend: React, HTML, CSS, JavaScript, Tailwind, Next.js
-- Backend: Ruby on Rails
+- Backend: Ruby on Rails, PostgreSQL
 
 ## Interests ⚽️
 
