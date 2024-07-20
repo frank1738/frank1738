@@ -1,3 +1,5 @@
+  <img  src="./frankBanner.png"/>
+
 # Hey there! 👋
 
 Welcome to my coding realm! I'm Frankline, your friendly neighborhood Full-Stack developer 🧙‍♂️ with a knack for React and Ruby on Rails. Let's embark on an enchanting coding journey together! 
