@@ -1,26 +1,16 @@
   <img  src="./frankBanner.png"/>
 
-# Hey there! 👋
+# Hi, I'm Frankline! 👋
 
-Welcome to my coding realm! I'm Frankline, your friendly neighborhood Full-Stack developer 🧙‍♂️ with a knack for React and Ruby on Rails. Let's embark on an enchanting coding journey together! 
-
-## About Me 🌟
-
-- 🎓 I'm a curious learner, on a quest to level up not just in tech but in all things fascinating.
-- 💼 I prefer decoding complex problems into bite-sized, shareable gems. Let's sprinkle some coding magic!
+I'm a Software Developer specializing in React and Node Js. Passionate about turning complex problems into clean, efficient code.
 
 ## Tech Stack 💻
+- Frontend: React, HTML, CSS, JavaScript, Tailwind, TypeScript ✅
+- Backend: NodeJS, Express, MongoDB, PostgreSQL ✅
+## Interests
+- Coding and football—two of my favorite things! ⚽️💻
 
-- Frontend: React, HTML, CSS, JavaScript, Tailwind, Next.js
-- Backend: Ruby on Rails, PostgreSQL
-
-## Interests ⚽️
-
-When I'm not concocting spells with code, you'll find me under the spell of intense football matches! ⚽️ Pro tip: Coding with the match on is my secret sauce to success! 😄
-
-## Casting Collaborations 📩
-
-Seeking a fellow coding sorcerer? I'm all ears for bewitching projects, coding spells, and enchanting discussions:
+## Let’s Connect: 📩
 
 - Email: [email me](mailto:frankliosoro08@gmail.com)
 - LinkedIn: [my linkedin profile](https://www.linkedin.com/in/frank1738/)
@@ -28,18 +18,6 @@ Seeking a fellow coding sorcerer? I'm all ears for bewitching projects, coding s
 ## ✨ Explore My Portfolio ✨
 
 Visit my [portfolio](https://frank1738.github.io/portfolio/) at least!😄
-
-## Let's Brew Some Code! 🍻
-
-Pull up a chair, grab your coding wand (keyboard), and let's concoct some extraordinary digital potions! I'm thrilled to join forces and create wonders in the tech realm. Let the coding adventures begin! 🎉
-
-> "When in doubt, debug it out!" 🐞
-
-Happy coding and may the bugs be ever in your favor! 🐛🔮
-
-
-   
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Fortune+favors+the+brave!)](https://git.io/typing-svg)
     
