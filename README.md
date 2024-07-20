@@ -2,7 +2,7 @@
 
 # Hi, I'm Frankline! 👋
 
-I'm a Software Developer specializing in React and Node Js. Passionate about turning complex problems into clean, efficient code.
+I'm a Software Developer specializing in React and NodeJS. Passionate about turning complex problems into clean, efficient code.
 
 ## Tech Stack 💻
 - Frontend: React, HTML, CSS, JavaScript, Tailwind, TypeScript ✅
@@ -12,8 +12,8 @@ I'm a Software Developer specializing in React and Node Js. Passionate about tur
 
 ## Let’s Connect: 📩
 
-- Email: [email me](mailto:frankliosoro08@gmail.com)
-- LinkedIn: [my linkedin profile](https://www.linkedin.com/in/frank1738/)
+- Email: [email me](mailto:franklineosoro08@gmail.com)
+- LinkedIn: [my linkedin profile](https://www.linkedin.com/in/franklineosoro/)
 
 ## ✨ Explore My Portfolio ✨
 
