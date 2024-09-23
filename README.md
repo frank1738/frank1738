@@ -2,7 +2,7 @@
 
 # Hi, I'm Frankline! 👋
 
-I'm a Software Developer specializing in React and NodeJS. Passionate about turning complex problems into clean, efficient code.
+I'm Frankline, a software dev who loves turning tech headaches into smooth solutions. I'm all about React and NodeJS, but I'm also diving into C# to see what it's got in store. 
 
 ## Tech Stack 💻
 - Frontend: React ⚛️, HTML 📝, CSS 🎨, JavaScript 🌐, Tailwind 💨, TypeScript 🧑‍💻 ✅
