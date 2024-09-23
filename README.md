@@ -5,9 +5,11 @@
 I'm a Software Developer specializing in React and NodeJS. Passionate about turning complex problems into clean, efficient code.
 
 ## Tech Stack 💻
-- Frontend: React, HTML, CSS, JavaScript, Tailwind, TypeScript ✅
-- Backend: NodeJS, Express, MongoDB, PostgreSQL ✅
+- Frontend: React ⚛️, HTML 📝, CSS 🎨, JavaScript 🌐, Tailwind 💨, TypeScript 🧑‍💻 ✅
+- Backend: NodeJS ⚙️, Express 🚀, MongoDB 🍃, PostgreSQL 🐘 ✅
+- currently getting cracked with C# 🏗️
 ## Interests
+
 - Coding and football—two of my favorite things! ⚽️💻
 
 ## Let’s Connect: 📩
