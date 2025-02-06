@@ -7,7 +7,7 @@ I'm Frankline, a software dev who loves turning tech headaches into smooth solut
 ## Tech Stack 💻
 - Frontend: React ⚛️, HTML 📝, CSS 🎨, JavaScript 🌐, Tailwind 💨, TypeScript 🧑‍💻 ✅
 - Backend: NodeJS ⚙️, Express 🚀, MongoDB 🍃, PostgreSQL 🐘 ✅
-- currently getting cracked with C# 🏗️
+- currently learning C# 🏗️
 ## Interests
 
 - Coding and football—two of my favorite things! ⚽️💻
